@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OluwaseunAI
+- 👋 Hi, I’m @OluwaseunAI, Welcome to my profile page ☺️ 
 - 👀 I’m interested in ...  Software development, Specialized software, biogenetics, chemistry applications, general education, nature and knowledge. I'm big on career building and development not minding the long route
 - 🌱 I’m currently learning Nodejs and Vuejs
 - 💞️ I’m looking to collaborate on simple working APIs, architecture and internet infrastructure
