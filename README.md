@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OluwaseunAI, Welcome to my profile page ☺️ 
-- 👀 I’m interested in ...  Software development, Specialized software, biogenetics, chemistry applications, general education, nature and knowledge. I'm big on career building and development not minding the long route
+- 👀 I’m interested in ...  Software development, Specialized software, biotechnologies, chemistry applications, general education, nature and knowledge. I'm big on career building and development not minding the long route
 - 🌱 I’m currently learning Nodejs and Vuejs
 - 💞️ I’m looking to collaborate on simple working APIs, architecture and internet infrastructure
 - 📫 How to reach me olaoluwayemilogos@gmail.com
